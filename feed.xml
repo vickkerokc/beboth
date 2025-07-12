@@ -3,7 +3,7 @@
     <title>beboth</title>
     <link href="https://github.com/vickkerokc/beboth/feed.xml" rel="self" />
     <link href="https://github.com/vickkerokc/beboth" />
-    <updated>2025-07-12T09:57:04-05:00</updated>
+    <updated>2025-07-12T13:40:52-05:00</updated>
     <author>
         <name>Vicki Langford</name>
     </author>
@@ -17,6 +17,7 @@
         <link href="https://github.com/vickkerokc/beboth/i-am-both.html"/>
         <id>https://github.com/vickkerokc/beboth/i-am-both.html</id>
         <media:content url="https://github.com/vickkerokc/beboth/media/posts/2/biggest-beboth-header.jpg" medium="image" />
+            <category term="Op-Eds"/>
 
         <updated>2025-07-12T09:57:04-05:00</updated>
             <summary>
