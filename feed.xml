@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>beboth</title>
-    <link href="https://github.com/vickkerokc/beboth/feed.xml" rel="self" />
-    <link href="https://github.com/vickkerokc/beboth" />
+    <link href="https://github.com/vickkerokc/feed.xml" rel="self" />
+    <link href="https://github.com/vickkerokc" />
     <updated>2025-07-12T13:40:52-05:00</updated>
     <author>
         <name>Vicki Langford</name>
     </author>
-    <id>https://github.com/vickkerokc/beboth</id>
+    <id>https://github.com/vickkerokc</id>
 
     <entry>
         <title>I am Both</title>
         <author>
             <name>Vicki Langford</name>
         </author>
-        <link href="https://github.com/vickkerokc/beboth/i-am-both.html"/>
-        <id>https://github.com/vickkerokc/beboth/i-am-both.html</id>
-        <media:content url="https://github.com/vickkerokc/beboth/media/posts/2/biggest-beboth-header.jpg" medium="image" />
+        <link href="https://github.com/vickkerokc/i-am-both.html"/>
+        <id>https://github.com/vickkerokc/i-am-both.html</id>
+        <media:content url="https://github.com/vickkerokc/media/posts/2/biggest-beboth-header.jpg" medium="image" />
             <category term="Op-Eds"/>
 
         <updated>2025-07-12T09:57:04-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://github.com/vickkerokc/beboth/media/posts/2/biggest-beboth-header.jpg" alt="" />
+                        <img src="https://github.com/vickkerokc/media/posts/2/biggest-beboth-header.jpg" alt="" />
                     April 5 2020 Be Both is born. On this day, We are in the midst of a pandemic. COVID-19. We are in a global health system crisis. We are in an economic shutdown crisis. Extreme measures in order to control the virus spread and flatten&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/vickkerokc/beboth/media/posts/2/biggest-beboth-header.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://github.com/vickkerokc/media/posts/2/biggest-beboth-header.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     April 5 2020 Be Both is born.
