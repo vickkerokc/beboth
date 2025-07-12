@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/vickkerokc/sitemap.xml
+Sitemap: https://vickkerokc.github.io/beboth/sitemap.xml
