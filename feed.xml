@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>beboth</title>
-    <link href="https://vickkerokc.github.io/beboth/feed.xml" rel="self" />
-    <link href="https://vickkerokc.github.io/beboth" />
+    <link href="https://beboth.org/feed.xml" rel="self" />
+    <link href="https://beboth.org" />
     <updated>2025-07-13T15:47:16-05:00</updated>
     <author>
         <name>Vicki Langford</name>
     </author>
-    <id>https://vickkerokc.github.io/beboth</id>
+    <id>https://beboth.org</id>
 
     <entry>
         <title>pro choice</title>
         <author>
             <name>Vicki Langford</name>
         </author>
-        <link href="https://vickkerokc.github.io/beboth/pro-choice.html"/>
-        <id>https://vickkerokc.github.io/beboth/pro-choice.html</id>
+        <link href="https://beboth.org/pro-choice.html"/>
+        <id>https://beboth.org/pro-choice.html</id>
             <category term="Op-Eds"/>
 
         <updated>2023-10-16T15:34:00-05:00</updated>
@@ -107,21 +107,21 @@
         <author>
             <name>Vicki Langford</name>
         </author>
-        <link href="https://vickkerokc.github.io/beboth/i-am-both.html"/>
-        <id>https://vickkerokc.github.io/beboth/i-am-both.html</id>
-        <media:content url="https://vickkerokc.github.io/beboth/media/posts/2/biggest-beboth-header.jpg" medium="image" />
+        <link href="https://beboth.org/i-am-both.html"/>
+        <id>https://beboth.org/i-am-both.html</id>
+        <media:content url="https://beboth.org/media/posts/2/biggest-beboth-header.jpg" medium="image" />
             <category term="Op-Eds"/>
 
         <updated>2020-04-05T09:57:00-05:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://vickkerokc.github.io/beboth/media/posts/2/biggest-beboth-header.jpg" alt="" />
+                        <img src="https://beboth.org/media/posts/2/biggest-beboth-header.jpg" alt="" />
                     April 5 2020 Be Both is born. On this day, We are in the midst of a pandemic. COVID-19. We are in a global health system crisis. We are in an economic shutdown crisis. Extreme measures in order to control the virus spread and flatten&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://vickkerokc.github.io/beboth/media/posts/2/biggest-beboth-header.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://beboth.org/media/posts/2/biggest-beboth-header.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     April 5 2020 Be Both is born.

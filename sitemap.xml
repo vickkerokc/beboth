@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://vickkerokc.github.io/beboth/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://beboth.org/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://vickkerokc.github.io/beboth/</loc>
+<loc>https://beboth.org/</loc>
 </url>
 <url>
-<loc>https://vickkerokc.github.io/beboth/be-both-symbology-2.html</loc>
+<loc>https://beboth.org/be-both-symbology-2.html</loc>
 <lastmod>2025-07-12T13:53:20-05:00</lastmod>
 <image:image>
-<image:loc>https://vickkerokc.github.io/beboth/media/posts/5/original-beboth.jpg</image:loc>
+<image:loc>https://beboth.org/media/posts/5/original-beboth.jpg</image:loc>
 <image:title><![CDATA[crayon drawn yin yang symbol]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://vickkerokc.github.io/beboth/i-am-both.html</loc>
+<loc>https://beboth.org/i-am-both.html</loc>
 <lastmod>2025-07-13T15:47:16-05:00</lastmod>
 <image:image>
-<image:loc>https://vickkerokc.github.io/beboth/media/posts/2/biggest-beboth-header.jpg</image:loc>
+<image:loc>https://beboth.org/media/posts/2/biggest-beboth-header.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://vickkerokc.github.io/beboth/mission.html</loc>
+<loc>https://beboth.org/mission.html</loc>
 <lastmod>2025-07-12T09:58:05-05:00</lastmod>
 </url>
 <url>
-<loc>https://vickkerokc.github.io/beboth/pro-choice.html</loc>
+<loc>https://beboth.org/pro-choice.html</loc>
 <lastmod>2025-07-13T15:46:49-05:00</lastmod>
 </url>
 </urlset>
